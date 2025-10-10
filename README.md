@@ -1,5 +1,6 @@
 #  Agentic RAG Fitness Chatbot
 
+
 ##  Overview
 The **Agentic RAG Fitness Chatbot** is an AI-powered application designed to provide **personalized fitness guidance** and **workout recommendations**.  
 It leverages **Retrieval-Augmented Generation (RAG)**, **multi-agent systems**, and a **curated knowledge base** to deliver **context-aware** and **actionable fitness advice**.  

@@ -43,19 +43,19 @@ The system is built with modular components working together to process and resp
 ### Steps
 
 ```bash
-# 1️⃣ Clone the repository
+#  Clone the repository
 git clone https://github.com/pramod-zillella/AgenticRagChatbot.git
 cd agentic-rag-fitness-chatbot
 
-# 2️⃣ Install dependencies
+#  Install dependencies
 pip install -r requirements.txt
 
-# 3️⃣ Set up environment variables
+#  Set up environment variables
 # Create a .env file in the project directory and add:
 OPENAI_API_KEY=your_openai_api_key
 PINECONE_API_KEY=your_pinecone_api_key
 LANGCHAIN_API_KEY_V2=your_langchain_api_key
 
-# 4️⃣ Run the Streamlit application
+#  Run the Streamlit application
 streamlit run interface.py
 
